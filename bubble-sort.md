@@ -21,8 +21,6 @@ function bubbleSort(arr) {
 
     return arr;
 }
-
-// Example usag
 '''
 
 Time Complexity: O(n^2)
